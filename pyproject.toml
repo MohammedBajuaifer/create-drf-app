@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "create-drf-app"
-version = "0.1.4"
+version = "0.1.26"
 description = ""
 authors = ["Mohammed Bajuaifer <mohamadbajuaifer@gmail.com>"]
 readme = "README.md"
@@ -13,7 +13,6 @@ create-drf-app = "create_drf_app.main:app"
 python = "^3.8"
 typer = "^0.6.1"
 cookiecutter = "2.1.1"
-click = "8.0.0"
 
 
 [build-system]
