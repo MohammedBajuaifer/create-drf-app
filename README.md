@@ -19,10 +19,10 @@ $ create-drf-app start <template_type>
 ```
 
 ## Template types
-for now we only have a basic template
-- basic
-- intermediate
-- advance
+for now we only have a basic template. But in the future will have many more!
+- **basic**
+- ~~intermediate~~
+- ~~advance~~
 
 ## Road map
 - Intermediate DRF template
