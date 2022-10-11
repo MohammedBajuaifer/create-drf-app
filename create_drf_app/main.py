@@ -26,7 +26,7 @@ def activate_venv(path):
 
     # set current directory
     os.chdir(path)
-    print("🔨 setting up your virutal environment")
+    print("🔨 setting up your virtual environment")
     os.system("python -m venv venv")
     os.getcwd()
 
@@ -45,7 +45,7 @@ def start(template_name):
     path = cookiecutter(template_path)
 
     activate_venv(path)
-    print("🎉🎉 your DRF project is ready! 🚀🚀")
+    print("\n🎉🎉 your DRF project is ready! 🚀🚀")
     folder_name = pathlib.PurePath(path)
     
     if OS == "Windows":
