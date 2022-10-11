@@ -34,5 +34,5 @@ for now we only have a basic template. But in the future will have many more!
 
 ## License
 
-Everything inside this repository is [MIT licensed](https://github.com/MohammedBajuaifer/create-drf-app/blob/master/README.md).
+[MIT licensed](https://github.com/MohammedBajuaifer/create-drf-app/blob/master/README.md).
 
