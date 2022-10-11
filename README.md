@@ -31,3 +31,8 @@ for now we only have a basic template
 - Vue/DRF template
 - SolidJs/DRF template
 
+
+## License
+
+Everything inside this repository is [MIT licensed](https://github.com/MohammedBajuaifer/create-drf-app/blob/master/README.md).
+
