@@ -1,10 +1,13 @@
 [tool.poetry]
 name = "create-drf-app"
-version = "0.2.0"
-description = ""
-authors = ["Mohammed Bajuaifer <mohamadbajuaifer@gmail.com>"]
+version = "0.2.1"
+description = "Starting a DRF project made easy"
+authors = ["Mohammed Bajuaifer <m.bajuaifer@gmail.com>"]
 readme = "README.md"
 packages = [{include = "create_drf_app"}]
+license = "MIT"
+repository = "https://github.com/MohammedBajuaifer/create-drf-app"
+keywords = ["scaffold", "drf", "django", 'cli', 'commands']
 
 [tool.poetry.scripts]
 create-drf-app = "create_drf_app.main:app"
