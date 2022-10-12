@@ -1,4 +1,4 @@
-# create-drf-app tool
+# create-drf-app tool [![Downloads](https://pepy.tech/badge/create-drf-app)](https://pepy.tech/project/create-drf-app)
 
 
 create-drf-app helps you create Django + DRF project. choosing the type of template you want from basic to advance. 
